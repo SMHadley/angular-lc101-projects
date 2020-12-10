@@ -1,0 +1,10 @@
+div.justify-content-center {
+    display: flex;
+    justify-content: space-around;
+    column-rule-style: dotted;
+    font-variant: small-caps;
+}
+
+hr {
+    border-top: 101px, dashed;
+}
