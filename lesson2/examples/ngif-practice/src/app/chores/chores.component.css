@@ -2,8 +2,23 @@
     color: #ff4f33;
 }
 
+.work {
+    color: green;
+    text-decoration: underline;
+}
+
 .doneChores {
     color: #3c79b8;
+}
+
+.doChores {
+    color: rgb(144, 5, 5);
+    text-decoration: underline;
+}
+
+.finishedChores {
+    color: rgb(22, 82, 22);
+    text-align: center;
 }
 
 h3 {
